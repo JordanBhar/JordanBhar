@@ -1,8 +1,5 @@
-Hello my name is Jordan, im from Canada Ontario, Im currently Enrolled in Sheridan College
-for the Mobile Computing Program
-
-
-👀 I’m interested in:
+Hello my name is Jordan, im from Canada, Ontario. Im currently Enrolled in 
+Sheridan College, taking part in the Mobile Computing Program
 
 
 🌱 I’m currently learning:
@@ -15,11 +12,21 @@ Languages Used / Experienced / Experimented
 - Python
 - C#
 - HTML, CSS, JavaScript
-- 
+- C
 
 Intrests:
 
+-Front End Development
+  -Page Structure
+  -Functionality
+  
+-
+
 Contact Information:
+
+jordan.bhar@hotmail.com
+
+Discord: jabir#0020
 
 <!---
 JordanBhar/JordanBhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
