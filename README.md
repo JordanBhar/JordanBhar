@@ -16,11 +16,11 @@ Languages Used / Experienced / Experimented
 
 Intrests:
 
--Front End Development
-  -Page Structure
-  -Functionality
+- Flutter & Dart Applications
   
--
+- Android & Swift Applications
+
+- MVC Web Applications
 
 Contact Information:
 
