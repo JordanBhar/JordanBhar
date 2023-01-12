@@ -17,10 +17,9 @@ Languages Used / Experienced / Experimented
 Intrests:
 
 - Flutter & Dart Applications
-  
 - Android & Swift Applications
-
 - MVC Web Applications
+- .NET API projects
 
 Contact Information:
 
