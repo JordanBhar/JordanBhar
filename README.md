@@ -25,7 +25,7 @@ Contact Information:
 
 jordan.bhar@hotmail.com
 
-Discord: jabir#0020
+
 
 <!---
 JordanBhar/JordanBhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
