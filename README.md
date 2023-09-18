@@ -1,18 +1,22 @@
-Hello my name is Jordan, im from Canada, Ontario. Im currently Enrolled in 
-Sheridan College, taking part in the Mobile Computing Program
+![chin-fong-skater-2k](https://github.com/JordanBhar/JordanBhar/assets/48815489/5d8c1d7d-b415-4349-b1c9-cfdc4eb2baa5)
 
 
-🌱 I’m currently learning:
 
 
-Languages Used / Experienced / Experimented
+##Education :
 
-- Dart & Flutter
+Sheridan College - Mobile Computing 
+
+
+##Skills
+
 - Kotlin
+- Swift
 - Python
-- C#
+- C# , C , C++
+- .NET
 - HTML, CSS, JavaScript
-- C
+  
 
 Intrests:
 
