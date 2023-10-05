@@ -1,17 +1,25 @@
-![chin-fong-skater-2k](https://github.com/JordanBhar/JordanBhar/assets/48815489/5d8c1d7d-b415-4349-b1c9-cfdc4eb2baa5 | height = 200)
+![chin-fong-skater-2k](https://github.com/JordanBhar/JordanBhar/assets/48815489/5d8c1d7d-b415-4349-b1c9-cfdc4eb2baa5)
+
+
+
+
 
 
 ## Skills & Experience
 Programming Languages & Frameworks:
+
 C / C++ , C#, Java, Python, Swift & Swift UI, Kotlin, HTML, CSS, Tailwind CSS, Bootstrap CSS, JS, React JS, 
 
 Development Tools:
+
 Visual Studo Code, Visual Studio, CLION, IntelliJ, Xcode, Android Studio, Git, Github, Figma, Postman
 
 Databases:
+
 Firebase, MySQL, SQLlite
 
 Operating Systems:
+
 Windows, IOS, MAC, Linux
 
 
