@@ -25,6 +25,7 @@ Windows, IOS, MAC, Linux
 
 </br>
 </br>
+
 ## Interests
 
 - Flutter & Dart Applications
@@ -34,6 +35,7 @@ Windows, IOS, MAC, Linux
 
 </br>
 </br>  
+
 ## Contact Information
 
 jordan.bhar@hotmail.com
