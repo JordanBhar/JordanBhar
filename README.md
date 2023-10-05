@@ -1,24 +1,27 @@
-
 <img src="https://github.com/JordanBhar/JordanBhar/assets/48815489/5d8c1d7d-b415-4349-b1c9-cfdc4eb2baa5" width="100%" height="300px">
 
 </br>
 </br>
+</br>
+</br>
 
 ## Skills & Experience
-Programming Languages & Frameworks:
-
+**Programming Languages & Frameworks:**
 C / C++ , C#, Java, Python, Swift & Swift UI, Kotlin, HTML, CSS, Tailwind CSS, Bootstrap CSS, JS, React JS, 
 
-Development Tools:
+</br>
 
+**Development Tools:**
 Visual Studo Code, Visual Studio, CLION, IntelliJ, Xcode, Android Studio, Git, Github, Figma, Postman
 
-Databases:
+</br>
 
+**Databases:**
 Firebase, MySQL, SQLlite
 
-Operating Systems:
+</br>
 
+**Operating Systems:**
 Windows, IOS, MAC, Linux
 
 </br>
@@ -35,7 +38,6 @@ Windows, IOS, MAC, Linux
 ## Contact Information
 
 jordan.bhar@hotmail.com
-
 
 
 <!---
