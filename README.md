@@ -3,7 +3,9 @@
 
 </br>
 </br>
-</br>
+
+|Email: jordan.bhar@hotmail.com | Discord : SampleUsername | Linkedin : Jordan Bhar|
+
 </br>
 
 ## Skills & Experience
