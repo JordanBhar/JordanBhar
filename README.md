@@ -5,10 +5,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-
-
 ## Skills & Experience
 Programming Languages & Frameworks:
 
@@ -26,7 +22,8 @@ Operating Systems:
 
 Windows, IOS, MAC, Linux
 
-
+</br>
+</br>
 ## Interests
 
 - Flutter & Dart Applications
@@ -34,7 +31,8 @@ Windows, IOS, MAC, Linux
 - MVC Web Applications
 - .NET API projects
 
-  
+</br>
+</br>  
 ## Contact Information
 
 jordan.bhar@hotmail.com
