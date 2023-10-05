@@ -22,7 +22,11 @@
 
 | HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | React JS |
 |---|---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> | **Back-end Development:**
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> | 
+
+</br>
+
+**Back-end Development:**
 
 | .NET | Springboot | NodeJS |
 |---|---|---|
@@ -34,7 +38,7 @@
 
 | Git | Github | Figma | Postman |
 |---|---|---|---|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="40" height="40"/> |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="github" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="40" height="40"/> |
 
 </br>
 
@@ -50,22 +54,20 @@
 
 | Windows | iOS | macOS | Linux |
 |---|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg" alt="windows" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> |
+| <img src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" alt="windows" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> |
 
 </br>
 
 ## Interests
 
+- Mobile Application Development Particularly in IOS Development
 - Flutter & Dart Applications
-- Android & Swift Applications
-- MVC Web Applications
-- .NET API projects
+- Frontend & UI / UX Design
+- .NET MVC Web Applications & .NET API projects
 
 </br> 
 
-## Contact Information
 
-| Email : jordan.bhar@hotmail.com | Linkedin : Jordan Bhar | Discord
 
 
 <!---
