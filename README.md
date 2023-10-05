@@ -42,7 +42,7 @@
 
 | Git | Github | Figma | Postman |
 |---|---|---|---|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="github" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="40" height="40"/> |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="github" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | <img src="https://github.com/JordanBhar/JordanBhar/assets/48815489/3f66dfb8-c294-4dc4-b1f0-59d09d5cb9c6" alt="postman" width="40" height="40"/> |
 
 </br>
 
