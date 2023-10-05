@@ -6,8 +6,10 @@
 </br>
 
 <center>
+  
   | Email: jordan.bhar@hotmail.com | Discord : SampleUsername | Linkedin : Jordan Bhar |
   |---|---|---|
+  
 </center>
 
 </br>
