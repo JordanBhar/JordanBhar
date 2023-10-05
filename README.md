@@ -54,13 +54,6 @@
 
 </br>
 
-**Operating Systems:**
-
-| Windows | iOS | macOS | Linux |
-|---|---|---|---|
-| <img src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" alt="windows" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> |
-
-</br>
 
 ## Interests
 
