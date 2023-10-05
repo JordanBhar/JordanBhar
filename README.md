@@ -7,21 +7,25 @@
 
 ## Skills & Experience
 **Programming Languages & Frameworks:**
+
 C / C++ , C#, Java, Python, Swift & Swift UI, Kotlin, HTML, CSS, Tailwind CSS, Bootstrap CSS, JS, React JS, 
 
 </br>
 
 **Development Tools:**
+
 Visual Studo Code, Visual Studio, CLION, IntelliJ, Xcode, Android Studio, Git, Github, Figma, Postman
 
 </br>
 
 **Databases:**
+
 Firebase, MySQL, SQLlite
 
 </br>
 
 **Operating Systems:**
+
 Windows, IOS, MAC, Linux
 
 </br>
@@ -38,6 +42,8 @@ Windows, IOS, MAC, Linux
 ## Contact Information
 
 jordan.bhar@hotmail.com
+
+
 
 
 <!---
