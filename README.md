@@ -3,8 +3,6 @@
 
 </br>
 </br>
-</br>
-</br>
 
 ## Skills & Experience
 Programming Languages & Frameworks:
@@ -24,7 +22,6 @@ Operating Systems:
 Windows, IOS, MAC, Linux
 
 </br>
-</br>
 
 ## Interests
 
@@ -33,8 +30,7 @@ Windows, IOS, MAC, Linux
 - MVC Web Applications
 - .NET API projects
 
-</br>
-</br>  
+</br> 
 
 ## Contact Information
 
