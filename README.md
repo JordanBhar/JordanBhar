@@ -9,7 +9,7 @@
 ## Skills & Experience
 
 **Programming Languages :**
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/> C / C++
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-right: 10px;"/> C#
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/> Java
@@ -18,6 +18,8 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="margin-right: 10px;"/> Kotlin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/> JavaScript
 </div>
+
+</br>
 
 **Front-end Development:**
 <div style="display: flex; flex-direction: row; align-items: center;">
@@ -29,12 +31,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;"/> React JS
 </div>
 
+</br>
+
 **Back-end Development:**
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="margin-right: 10px;"/> .NET
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin-right: 10px;"/> Springboot
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/> NodeJS
 </div>
+
+</br>
 
 **Development Tools:**
 <div style="display: flex; flex-direction: row; align-items: center;">
@@ -44,6 +50,8 @@
   <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 10px;"/> Postman
 </div>
 
+</br>
+
 **Databases:**
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 10px;"/> Firebase
@@ -51,13 +59,19 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/> SQLlite
 </div>
 
+</br>
+
 **Operating Systems:**
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg" alt="windows" width="40" height="40" style="margin-right: 10px;"/> Windows
+  <span  style="margin-left: 20px;">
+  <span  style="margin-left: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40" style="margin-right: 10px;"/> iOS
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40" style="margin-right: 10px;"/> macOS
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/> Linux
 </div>
+
+</br>
 
 ## Interests
 
@@ -71,6 +85,7 @@
 ## Contact Information
 
 | Email : jordan.bhar@hotmail.com | Linkedin : Jordan Bhar | Discord : SampleUsername | Whatsapp : Jordan Bhar
+
 
 <!---
 JordanBhar/JordanBhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
