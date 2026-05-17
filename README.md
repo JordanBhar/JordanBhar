@@ -4,7 +4,7 @@
 </br>
 </br>
 
-| Email: jordan.bhar@hotmail.com | Discord : obsidiancobraa | Linkedin : Jordan Bhar |
+| Email: jordan.bhar@hotmail.com | Linkedin : Jordan Bhar |
 |---|---|---| 
 
 </br>
