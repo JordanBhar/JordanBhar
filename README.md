@@ -8,9 +8,9 @@
 <br/>
 <br/>
 
-| Email | LinkedIn |
-|---|---|
-| jordan.bhar@icloud.com | Jordan Bhar |
+| Email | LinkedIn | Discord |
+|---|---|---|
+| jordan.bhar@icloud.com | Jordan Bhar | ObsidianCobra | 
 
 <br/>
 
