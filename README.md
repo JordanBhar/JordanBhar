@@ -96,9 +96,19 @@
 
 # GitHub Stats
 
-| Top Languages | GitHub Stats |
-|---|---|
-| | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="test" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en" alt="test" /> | |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en&layout=compact" height="165" />
+</p>
+
+<br/>
+
+# GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JordanBhar&theme=tokyonight" height="165" />
+</p>
 
 <!---
 JordanBhar/JordanBhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
