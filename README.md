@@ -1,76 +1,99 @@
-
 <img src="https://github.com/JordanBhar/JordanBhar/assets/48815489/5d8c1d7d-b415-4349-b1c9-cfdc4eb2baa5" width="100%" height="300px">
 
-</br>
-</br>
+<br/>
+<br/>
 
-| Email: jordan.bhar@hotmail.com | Linkedin : Jordan Bhar |
-|---|---|---| 
-
-</br>
-
-## Skills & Experience
-
-</br>
-
-**Programming Languages:**
-
-| C / C++ | C# | Java | Python | Swift | Kotlin | JavaScript | Dart & Flutter |
-|---|---|---|---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-</p> |
-
-</br>
-
-**Front-end Development:**
-
-| HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | React JS |
-|---|---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> | 
-
-</br>
-
-**Back-end Development:**
-
-| .NET | Springboot | NodeJS |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> |
-
-</br>
-
-**Development Tools:**
-
-| Git | Github | Figma | Postman |
-|---|---|---|---|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="github" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | <img src="https://github.com/JordanBhar/JordanBhar/assets/48815489/3f66dfb8-c294-4dc4-b1f0-59d09d5cb9c6" alt="postman" width="70" height="40"/> |
-
-</br>
-
-**Databases:**
-
-| Firebase | MySQL | SQLlite |
-|---|---|---|
-| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> |
-
-</br>
-
-
-## Interests
-
-- Mobile Application Development Particularly in IOS Development
-- Flutter & Dart Applications
-- Frontend & UI / UX Design
-- .NET MVC Web Applications & .NET API projects
-
-</br> 
-
-## Github Stats
-
-| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="test" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en" alt="test" /> |
+| Email | LinkedIn |
 |---|---|
+| jordan.bhar@hotmail.com | Jordan Bhar |
 
+<br/>
+
+# Skills & Experience
+
+<br/>
+
+## Programming Languages
+
+| C | C++ | C# | Java | Python | Swift | Kotlin | JavaScript | Dart | Flutter |
+|---|---|---|---|---|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/> |
+
+<br/>
+
+## Front-End Development
+
+| HTML5 | CSS3 | Bootstrap | Tailwind CSS | JavaScript | React | Flutter |
+|---|---|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/> |
+
+<br/>
+
+## Back-End Development
+
+| .NET | ASP.NET Core | Spring Boot | Node.js |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> |
+
+<br/>
+
+## Cloud, DevOps & Infrastructure
+
+| AWS | Azure | Docker | Kubernetes | Git |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> |
+
+<br/>
+
+## Development Tools
+
+| GitHub | VS Code | Figma | Postman |
+|---|---|---|---|
+| <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> |
+
+<br/>
+
+## Databases
+
+| Firebase | MySQL | SQLite |
+|---|---|---|
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> |
+
+<br/>
+
+# Developer Focus
+
+- Full-Stack Application Development
+- Flutter & Cross-Platform Mobile Applications
+- ASP.NET Core APIs & Enterprise Systems
+- Cloud Architecture & Distributed Systems
+- Containerization & Kubernetes
+- AI-Assisted Development Workflows
+- UI / UX Focused Application Design
+- Scalable Backend Infrastructure
+- Software Architecture & System Design
+- Developer Tooling & Automation
+
+<br/>
+
+# Interests
+
+- Mobile Application Development
+- Flutter & Dart Applications
+- Cloud Computing & Infrastructure
+- Frontend Engineering & UI / UX Design
+- .NET & API Development
+- System Architecture & Scalable Applications
+- Computer Hardware & Custom PC Building
+- Gaming & Interactive Technologies
+
+<br/>
+
+# GitHub Stats
+
+| Top Languages | GitHub Stats |
+|---|---|
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en&layout=compact" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en" /> |
 
 <!---
 JordanBhar/JordanBhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
