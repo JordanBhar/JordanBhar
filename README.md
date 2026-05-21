@@ -97,9 +97,15 @@
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanBhar&theme=tokyonight&show_icons=true&locale=en&layout=compact" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JordanBhar&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBhar&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <br/>
@@ -107,7 +113,10 @@
 # GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JordanBhar&theme=tokyonight" height="165" />
+  <img 
+    src="https://streak-stats.demolab.com?user=JordanBhar&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <!---
