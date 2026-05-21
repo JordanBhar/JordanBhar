@@ -1,4 +1,4 @@
-#Full-Stack Developer - Mobile Computing Specialization
+# Full-Stack Developer - Mobile Computing Specialization
 
 <br/>
 <br/>
