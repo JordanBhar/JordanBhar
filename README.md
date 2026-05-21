@@ -1,3 +1,8 @@
+#Full-Stack Developer - Mobile Computing Specialization
+
+<br/>
+<br/>
+
 <img src="https://github.com/JordanBhar/JordanBhar/assets/48815489/5d8c1d7d-b415-4349-b1c9-cfdc4eb2baa5" width="100%" height="300px">
 
 <br/>
