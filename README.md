@@ -5,7 +5,7 @@
 
 | Email | LinkedIn |
 |---|---|
-| jordan.bhar@hotmail.com | Jordan Bhar |
+| jordan.bhar@icloud.com | Jordan Bhar |
 
 <br/>
 
